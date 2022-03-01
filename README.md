@@ -477,8 +477,8 @@ Copyright &copy; 2016-2022. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/random-base-gamma.svg
 [npm-url]: https://npmjs.org/package/@stdlib/random-base-gamma
 
-[test-image]: https://github.com/stdlib-js/random-base-gamma/actions/workflows/test.yml/badge.svg
-[test-url]: https://github.com/stdlib-js/random-base-gamma/actions/workflows/test.yml
+[test-image]: https://github.com/stdlib-js/random-base-gamma/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/random-base-gamma/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/random-base-gamma/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/random-base-gamma?branch=main
