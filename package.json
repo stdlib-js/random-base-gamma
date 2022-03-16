@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-base-gamma",
-  "version": "0.0.6",
+  "version": "0.0.0",
   "description": "Gamma distributed pseudorandom numbers.",
   "license": "Apache-2.0",
   "author": {
@@ -52,6 +52,7 @@
     "@stdlib/math-base-special-sqrt": "^0.0.x",
     "@stdlib/random-base-improved-ziggurat": "^0.0.x",
     "@stdlib/random-base-mt19937": "^0.0.x",
+    "@stdlib/string-format": "^0.0.x",
     "@stdlib/types": "^0.0.x",
     "@stdlib/utils-constant-function": "^0.0.x",
     "@stdlib/utils-copy": "^0.0.x",
