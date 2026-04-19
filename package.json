@@ -68,6 +68,7 @@
     "@stdlib/constants-uint32-max": "^0.2.3",
     "@stdlib/process-env": "^0.2.3",
     "@stdlib/random-base-minstd": "^0.2.3",
+    "@stdlib/random-base-minstd-shuffle": "^0.2.3",
     "@stdlib/random-base-randu": "^0.2.3",
     "@stdlib/stats-kstest": "^0.2.3",
     "@stdlib/time-now": "^0.2.3",
