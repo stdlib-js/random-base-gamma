@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-19)
+## Unreleased (2026-04-26)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`3f792d9`](https://github.com/stdlib-js/stdlib/commit/3f792d977d6941de561c97e5462fc957db0997ed) - **bench:** refactor to use string interpolation in `random/base` [(#11423)](https://github.com/stdlib-js/stdlib/pull/11423) _(by Karan Anand)_
 -   [`4574e32`](https://github.com/stdlib-js/stdlib/commit/4574e3216991a30ec46d3b4a2d5e9d84e31da20e) - **bench:** add factory benchmarks to `random/base` PRNGs [(#11563)](https://github.com/stdlib-js/stdlib/pull/11563) _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
