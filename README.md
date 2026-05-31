@@ -461,6 +461,7 @@ for ( i = 0; i < 100; i++ ) {
 -   <span class="package-name">[`@stdlib/random-array/gamma`][@stdlib/random/array/gamma]</span><span class="delimiter">: </span><span class="description">create an array containing pseudorandom numbers drawn from a gamma distribution.</span>
 -   <span class="package-name">[`@stdlib/random-iter/gamma`][@stdlib/random/iter/gamma]</span><span class="delimiter">: </span><span class="description">create an iterator for generating pseudorandom numbers drawn from a gamma distribution.</span>
 -   <span class="package-name">[`@stdlib/random-streams/gamma`][@stdlib/random/streams/gamma]</span><span class="delimiter">: </span><span class="description">create a readable stream for generating pseudorandom numbers drawn from a gamma distribution.</span>
+-   <span class="package-name">[`@stdlib/random-gamma`][@stdlib/random/gamma]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from a gamma distribution.</span>
 
 </section>
 
@@ -551,6 +552,8 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/random/iter/gamma]: https://github.com/stdlib-js/random-iter-gamma
 
 [@stdlib/random/streams/gamma]: https://github.com/stdlib-js/random-streams-gamma
+
+[@stdlib/random/gamma]: https://github.com/stdlib-js/random-gamma
 
 <!-- </related-links> -->
 
